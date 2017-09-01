@@ -1,5 +1,5 @@
 // Win32Project1.cpp : Defines the entry point for the console application.
-//
+//Added comment
 
 #include "stdafx.h"
 
